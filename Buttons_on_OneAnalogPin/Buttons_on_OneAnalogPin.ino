@@ -1,11 +1,11 @@
     /*******************************************************************************
-     * Project  : Four button on One analogpin                                                     *
+     * Project  : Four button on One analogpin                                     *
      * Compiler : Arduino 1.0.2                                                    *
      * Board    : Arduino Mega 2560                                                *
      * Shield   :                                                                  *
      * Module   :                                                                  *
      * Material : 4 button                                                         *
-     *          : 1k ohm x 4
+     *          : 1k ohm x 4                                                       *
      * Author   : Bavensky :3                                                      *
      * E-Mail   : Aphirak_Sang-ngenchai@hotmail.com                                *
      * Date     : 27/07/2014 [dd/mm/yyyy]                                          *
